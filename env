@@ -1,0 +1,5 @@
+NEXT_PUBLIC_API_URL = https://ecommerce.routemisr.com
+
+
+NEXTAUTH_SECRET=124196de694f988b7341dc80c870c6ec13f6bd0748e68aa48b8f733a5c45f947
+NEXTAUTH_URL=https://project-e-commerce-master-ahmed-ramadan-s-projects.vercel.app
